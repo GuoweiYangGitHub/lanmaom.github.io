@@ -1,0 +1,191 @@
+{
+	"header": {
+		"homePage": "主页",
+		"enterTheBusinessCircle":"走进商图",
+		"productsServices": "产品与服务",
+		"productsAndServices": {
+			"internationalConference":"国际会议",
+			"professionalSeminars":"专业研讨",
+			"exhibitionOperation" : "会展营运",
+			"marketConsultation" : "市场咨询"
+		},
+		"joinTheBusinessCircle":"加入商图",
+		"contactUs":"加入我们",
+		"language":"English"
+	},
+	"footer": {
+		"explain": "致力于打造中国生物科技行业第一活动公司"
+	},
+	"index": {
+		"banner": {
+			"banner_text1": "中国生物科技行业领先活动公司",
+			"banner_text2": "您职业发展的终身活动伙伴"
+		},
+		"productsServices": {
+			"internationalAndConference": {
+				"internationalConference": "国际会议",
+				"internationalConferenceText": "高端品牌峰会，内容与社交优质资源兼具"
+			},
+			"professionalAndSeminars": {
+				"professionalSeminars": "专业研讨",
+				"professionalSeminarsText": "线上与线下相结合, 是您获取专业知识的学习伙伴"
+			},
+			"exhibitionAndOperation": {
+				"exhibitionOperation": "会展营运",
+				"exhibitionOperationText": "精益管理响应需求，提供一站式优质项目管理"
+			},
+			"marketAndConsultation": {
+				"marketConsultation": "市场咨询",
+				"marketConsultationText": "助您获得高回报的精准市场推广解决方案"
+
+			}
+		},
+		"aboutAndBiomap": {
+			"aboutBiomap": "关于商图",
+			"aboutBiomapText": "在BIOMAP举办的活动中，我们通过广泛的专业调研，以创新的形式，聚集生物科技产业的领先实践者和专家学者，探讨最前沿的信息知识，以帮助行业专业人士应对当今不断升级的挑战。作为领先的专业活动组织公司，BMAP提供丰富的专业内容与最新行业资讯来帮助企业提升技术创新能力，保障质量标准与安全，降低产品风险，以适应日新月异的法规环境。",
+			"aboutBiomapText2": "自2012年创立以来，已有12万多名生物科技行业的专业人士参与过商图信息组织的活动。我们与一流院校、 园区、 学会、 协会、 联盟、 企业等合作方建立了深入的合作关系， 坚持客户第一、 品质至上的服务信念， 获得了广大客户对于商图活动的信赖。"
+		},
+		"recentHotAndEvents": "热点活动推荐"
+
+		
+	},
+	"aboutAndBiomap": {
+		"aboutBiomap":"关于商图",
+		"aboutBiomapTitle": "BIOMAP上海商图信息咨询有限公司致力于打造中国生物科技行业第一活动公司。",
+		"aboutBiomapExplain": "在BMAP举办的活动中，我们通过广泛的专业调研，以创新的形式，聚集生物科技产业的领先实践者和专家学者，探讨最前沿的信息知识，以帮助行业专业人士应对当今不断升级的挑战。作为领先的专业活动组织公司，BMAP提供丰富的专业内容与最新行业资讯来帮助企业提升技术创新能力，保障质量标准与安全，降低产品风险，以适应日新月异的法规环境。",
+		"passion": "激情 – 对我们所做的一切都充满激情，活力和信心。",
+		"integrity": "诚信 – 不管对内部团队还是客户，我们重视清晰的，公开的和诚实的交流。",
+		"excellence": "卓越 - 我们追求用最高的标准招募最优秀的人才，提供高质量的产品。",
+		"innovation": "创新 – 我们鼓励持续的思考与改进，来不断提升我们的产品和服务。",
+		"ourPartners": {
+			"title": "合作伙伴",
+			"content": "自2012年创立以来，已有12万多名生物科技行业的专业人士参与过商图信息组织的活动。我们与一流院校、 园区、 学会、 协会、 联盟、 企业等合作方建立了深入的合作关系， 坚持客户第一、 品质至上的服务信念， 获得了广大客户对于商图活动的信赖。"
+		},
+		"all": "全部",
+		"strategicPartners":"合作机构",
+		"clients": "客户公司",
+		"mediaPartners": "媒体合作方",
+		"formClients": "客户评价"
+	},
+	"productsServices": {
+		"title": "产品与服务",
+		"internationalConference": {
+			"title": "国际会议",
+			"content": "商图信息独立策划并打造生物科技行业品牌会议，在医药、个人护理品、医疗器械等细分领域打造了系列知名活动，受到行业圈内大到五百强企业小到初创企业的认可与支持，更与国内一流院校、学协会、生物园区、政府、联盟、企业建立了深入的合作关系。",
+			"recentInternationalConferences": {
+				"title": "近期国际会议"
+			}
+		},
+		"professionalSeminars": {
+			"title": "专业研讨",
+			"lecturers": {
+				"title": "讲师",
+				"content": "持续挖掘并培育国内外顶级讲师 -- 拥有25年+专业的背景知识和一线的实战经验；"
+			},
+			"content":{
+				"title": "内容",
+				"content": "根据从业人员需求，深度打造课程内容，以真实案例分享融合充分互动的教学方式呈现；"
+			},
+			"service": {
+				"title": "服务",
+				"content": "以客户至上的服务理念，提供专业优质的服务与高端舒适的学习环境；"
+			},
+			"product": {
+				"title": "产品",
+				"content": "线上与线下内容相结合，打造360度深度学习体验，学员获得更高的学习回报。"
+			},
+			"recentSeminars": "近期公开课推荐"
+		},
+		"eventManagement":{
+			"title": "会展营运",
+			"content": "基于丰富的活动管理经验，商图信息活动专家将为您成立独立项目小组，专业地帮助您规划展会活动，提供高效的解决方案，带来优质的活动运作，提升活动体验。",
+			"integrated": {
+				"describe": "整合市场宣传",
+				"explain": "活动KV、网站、线上宣传及平面物料设计；线上、线下渠道的整合营销策划与管理"
+			},
+			"delegates": {
+				"describe": "参会邀约与服务",
+				"explain": "定向邀约目标听众参会并提供电子注册系统与现场签到等服务"
+			},
+			"sponsor": {
+				"describe": "招商与展商服务",
+				"explain": "精准招商，并提供展位规划、现场展览管理及协调等服务"
+			},
+			"speaker": {
+				"describe": "专家邀约与服务",
+				"explain": "规划并联络演讲嘉宾，收集讲演信息并提供嘉宾交通、住宿等接待服务"
+			},
+			"oneStop": {
+				"describe": "一站式会务服务",
+				"explain": "活动场地勘查、谈判及住宿与餐饮管理服务；活动现场物料，包括会刊、舞台、背景板、特装等设计与制作"
+			},
+			"finance": {
+				"describe": "财务托管服务",
+				"explain": "设立项目账户并提供收费及代开发票服务"
+			}
+		},
+		"marketingServices": {
+			"title": "市场咨询",
+			"content": "我们的目标：对客户的了解甚至比客户对自己的了解还要多。我们的市场咨询服务将经过全面及深入的分析，结合企业战略计划，做正确的市场推广，正确地做市场推广，扩大市场份额，提高产品销量和品牌知名度。",
+			"copywriteDesign": "文案设计",
+			"eventPlanning": "活动策划",
+			"marketSurvey": "市场调研 ",
+			"precisionMarketing": "精准营销"
+		}
+
+	},
+	"joinUs": {
+		"title": "加入商图",
+		"passion": {
+			"title" : "激　情",
+			"content": "对我们所做的一切都充满激情，活力和信心。"
+		},
+		"integrity": {
+			"title": "诚　信",
+			"content": "不管对内部团队还是客户，我们重视清晰的，公开的和诚实的交流。"
+		},
+		"excellence": {
+			"title": "卓　越",
+			"content": "我们追求用最高的标准招募最优秀的人才，提供高质量的产品。"
+		},
+		"innovation": {
+			"title": "创　新",
+			"content": "我们鼓励持续的思考与改进，来不断提升我们的产品和服务。"
+		},
+		"container": "作为中国领先的生物科技活动企业,商图一直致力于建设一支团结,富有理想和激情的团队,追求创新进取的精神和蓬勃向上的朝气。",
+		"join": "加入商图, 请将简历以附件形式发送至 hr@bmapglobal.com,期待您的加入!",
+		"openPositions": "招聘职位"
+	},
+	"contactUs": {
+		"title":"加入我们",
+		"name": "姓名",
+		"company": "公司",
+		"position": "职位",
+		"mobile": "电话",
+		"email": "邮箱",
+		"leaveYourMessage": "留言",
+		"submit":"点击提交",
+		"address": {
+			"title":"地址",
+			"content1": "中国上海虹口区广纪路700号",
+			"content2": "明珠创意园二期406室"
+		},
+		"telephone": {
+			"title":"电话",
+			"number": "86 21-6107 1886"
+		},
+		"fax": {
+			"title":"传真",
+			"number": "+86 21 61071633"
+		},
+		"emails": {
+			"title": "邮箱",
+			"number": "contact@bmapglobal.com"
+		},
+		"officialWebsite":{
+			"title":"官网",
+			"address": "www.bmapglobal.com"
+		}
+	}
+
+}

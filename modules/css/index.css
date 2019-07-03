@@ -1,0 +1,25 @@
+.fz_16 {
+  font-size: 16px;
+}
+.content.white-text {
+  font-size: 14px;
+}
+.banner-content:after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 3px;
+  opacity: 0;
+  background: #03a9f4;
+}
+.banner-content.is-loading:after {
+  opacity: 1;
+  -webkit-transition: width 3s;
+  -moz-transition: width 3s;
+  transition: width 3s;
+  width: 100%;
+}
+.arrow-headers {
+  position: relative;
+  left: -10px;
+}

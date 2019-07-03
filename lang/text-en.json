@@ -1,0 +1,192 @@
+{
+	"header": {
+		"homePage": "Home",
+		"enterTheBusinessCircle": "About Us",
+		"productsServices": "products&Services",
+		"productsAndServices": {
+			"internationalConference": "International Conferences",
+			"professionalSeminars": "Educational Seminars",
+			"exhibitionOperation": "Event Management",
+			"marketConsultation": "Market Services"
+		},
+		"joinTheBusinessCircle": "join Us",
+		"contactUs": "contact Us",
+		"language": "中文"
+	},
+	"footer": {
+		"explain": "WE STRIVE TO BE THE EVENT LEADER IN CHINA BIOTECH INDUSTRY"
+	},
+	"index": {
+		"banner": {
+			"banner_text1": "WE STRIVE TO BE THE EVENT LEADER IN CHINA BIOTECH INDUSTRY",
+			"banner_text2": "WE AIM TO BE THE BEST EVENT PARTNER IN YOUR CAREER PATH"
+		},
+		"productsServices": {
+			"internationalAndConference": {
+				"internationalConference": "International Conferences",
+				"internationalConferenceText": "High-end branded conferences, with cutting-edge information and rich social networking opportunities"
+			},
+			"professionalAndSeminars": {
+				"professionalSeminars": "Educational Seminars",
+				"professionalSeminarsText": "Both online and offline available, your learning partner to acquire professional knowledge"
+			},
+			"exhibitionAndOperation": {
+				"exhibitionOperation": "Event Management",
+				"exhibitionOperationText": "Lean management to meet clients’every need, with high quality one-stop project management solutions"
+			},
+			"marketAndConsultation": {
+				"marketConsultation": "Market Services",
+				"marketConsultationText": "Help clients to get high returns through precise marketing solutions"
+
+			}
+		},
+		"aboutAndBiomap": {
+			"aboutBiomap": "ABOUT BIOMAP",
+			"aboutBiomapText": "BIOMAP events focus on helpings leading professionals in the biotech sector to drive business growth through unparalleled knowledge, up-to-the minute information and world-class specialist services in today’s dynamic and rapidly changing environments.At BIOMAP events, in innovative formats of conferences, panels, congress and summits, we invite leading practitioners and academics in life science industries to share insights, expertise and solutions to today 's escalating challenges as have been identified through our extensive research. As the leader in providing content-rich events that improve quality, safety and innovations and reduce risk, we help customers navigate an increasingly regulated world.",
+			"aboutBiomapText2": ""
+		},
+		"recentHotAndEvents": "RECENT HOT EVENTS"
+
+
+	},
+	"aboutAndBiomap": {
+		"aboutBiomap": "ABOUT BIOMAP",
+		"aboutBiomapTitle": "BIOMAP STRIVES TO BE THE EVENT LEADER IN CHINA BIOTECH INDUSTRY.",
+		"aboutBiomapExplain": ["BIOMAP events focus on helpings leading professionals in the biotech sector to drive business growth through unparalleled knowledge, up-to-the minute information and world-class specialist services in today’s dynamic and rapidly changing environments.", "At BIOMAP events, in innovative formats of conferences, panels, congress and summits, we invite leading practitioners and academics in life science industries to share insights, expertise and solutions to today's escalating challenges as have been identified through our extensive research. As the leader in providing content-rich events that improve quality, safety and innovations and reduce risk, we help customers navigate an increasingly regulated world."],
+		"passion": "",
+		"integrity": "",
+		"excellence": "",
+		"innovation": "",
+		"ourPartners": {
+			"title": "OUR PARTNERS AND CLIENTS",
+			"content": "Since founded in 2012, we have served over 120,000 participants from biotech industries at BMAP events. We have also established in-depth cooperative relations with first-class universities, industrial parks, societies, associations, alliances and enterprises in this sector. Adhering to the service faith of customer first and quality first, we have won the trust from partners and customers."
+		},
+		"all": "All",
+		"strategicPartners": "Strategic Partners",
+		"clients": "Clients",
+		"mediaPartners": "Media Partners",
+		"formClients": "TESTIMONIALS FROM CLIENTS"
+	},
+	"productsServices": {
+		"title": "PRODUCTS&SERVICES",
+		"internationalConference": {
+			"title": "INTERNATIONAL CONFERENCES",
+			"content": "BIOMAP has produced a series of well-known branded conferences in the segments of pharmaceuticals, diagnostic products, personal care products and medical devices. We have been recognized and trusted by corporates from the start-ups to the top 500 in the sectors. Moreover, we have established in-depth cooperative relations with first-class universities, academic associations, industrial parks and government agencies.",
+			"recentInternationalConferences": {
+				"title": "RECENT INTERNATIONAL CONFERENCES"
+			}
+		},
+		"professionalSeminars": {
+			"title": "EDUCATIONAL SEMINARS",
+			"lecturers": {
+				"title": "Lecturers",
+				"content": "constantly explore and cultivate top lecturers from domestic and abroad -- with more than 25 years working experiences and frontline practical knowledge."
+			},
+			"content": {
+				"title": "Content",
+				"content": "the course content is designed according to the real needs of practitioners, presented in a way that integrates real case sharing and full interaction."
+			},
+			"service": {
+				"title": "Service",
+				"content": "with the customer-oriented service principle, we provide professional services and high-end comfortable learning environment."
+			},
+			"product": {
+				"title": "Product",
+				"content": "both online and offline available, creating a 360-degree learning experience. and providing high learning returns."
+			},
+			"recentSeminars": "RECENT SEMINARS"
+		},
+		"eventManagement": {
+			"title": "EVENT MANAGEMENT",
+			"content": "Based on the rich experiences in event management, our event experts can help you to make the professional event plan, provide efficient services, deliver high-quality event operations and improve your event experiences.",
+			"integrated": {
+				"describe": "Integrated Marketing Promotion",
+				"explain": "Events KV design and website development; Integrated marketing prmotions through online and offline channels"
+			},
+			"delegates": {
+				"describe": "Delegates Invitation and Management",
+				"explain": "Invite the target audience to attend the events and provide on-line registration system and on-site check-in services"
+			},
+			"sponsor": {
+				"describe": "Sponsor Invitation and Management",
+				"explain": "Precise invitation to target sponsors, with booth planning, on-site management and coordination services"
+			},
+			"speaker": {
+				"describe": "Speaker Invitation and Management",
+				"explain": "Plan and contact guest speakers, collect speech information and provide transportation, accommodation and other reception services"
+			},
+			"oneStop": {
+				"describe": "One-stop Event Service",
+				"explain": "Venue selection, negotiation, accommodation and catering management; Event decoration design and delivery, including hanbook, badge, stage, special assembly and etc"
+			},
+			"finance": {
+				"describe": "Finance Service",
+				"explain": "Set up project account and provide payment collection and invoice service"
+			}
+
+		},
+		"marketingServices": {
+			"title": "MARKETING SERVICES",
+			"content": "Our goal:  Know more about our customers than what the customers know about themselves. Our market consulting services will be done through a comprehensive and in-depth analysis, leveraging the company strategic plan with the right marketing plan and execution to expand market share, improve product sales and brand awareness.",
+			"copywriteDesign": "Copywrite Design",
+			"eventPlanning": "Event Planning",
+			"marketSurvey": "Market Survey ",
+			"precisionMarketing": "Precision Marketing"
+		}
+
+	},
+	"joinUs": {
+		"title": "JOIN US",
+		"passion": {
+			"title": "Passion",
+			"content": "We are enthusiastic, energetic and confident on everything we do."
+		},
+		"integrity": {
+			"title": "Integrity",
+			"content": "We value clear, open and constructive communications and we are customer needs front-of-mind always."
+		},
+		"excellence": {
+			"title": "Excellence",
+			"content": "We pursue excellence in products, relationships and people and we deliver at highest standards."
+		},
+		"innovation": {
+			"title": "Innovation",
+			"content": "We use our brains as a team for continuous improvement of our products and people."
+		},
+		"container": "As a leading event organizer in China, BIOMAP has been committed to building a united, proactive and passionate team, with a vigorous team style, a down-to-earth learning spirit.",
+		"join": "If you are interested in joining us, welcome to send your resume to hr@bmapglobal.com. We look forward to meeting you!",
+		"openPositions": "OPEN POSITIONS"
+	},
+	"contactUs": {
+		"title":"CONTACT US",
+		"name": "Name",
+		"company": "Company",
+		"position": "Position",
+		"mobile": "Mobile",
+		"email": "Email",
+		"leaveYourMessage": "Leave your message",
+		"submit": "submit",
+		"address": {
+			"title":"address",
+			"content1": "Room 406, Shanghai Wisdom Pearl Creative Industry Park",
+			"content2": "No.700 Guangji Road, Shanghai, China"
+		},
+		"telephone": {
+			"title": "Telephone",
+			"number": "86 21-6107 1886"
+		},
+		"fax": {
+			"title": "Fax",
+			"number": "+86 21 61071633"
+		},
+		"emails": {
+			"title": "Email",
+			"number": "contact@bmapglobal.com"
+		},
+		"officialWebsite": {
+			"title": "Official Website",
+			"address": "www.bmapglobal.com"
+		}
+	}
+
+}
