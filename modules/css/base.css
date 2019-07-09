@@ -22,6 +22,12 @@
 .mh_100 {
   min-height: 100px;
 }
+.pt_60 {
+  padding-top: 60px;
+}
+.pb_60 {
+  padding-bottom: 60px;
+}
 .fz_26 {
   margin-top: 40px;
   font-size: 42px;
@@ -100,4 +106,35 @@
 }
 .preloader-position img {
   width: 260px;
+}
+.bg_img {
+  background-image: url(../../assets/img/contact_us.jpg);
+  background-color: #03a9f4;
+  background-position: 50% 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.enterbusiness_1 {
+  background-image: url(../../assets/img/jiqing.jpg) !important;
+  background-position: 50% 0 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
+.enterbusiness_2 {
+  background-image: url(../../assets/img/chengxin.jpg) !important;
+  background-position: 50% 0 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
+.enterbusiness_3 {
+  background-image: url(../../assets/img/zhuoyue.jpg) !important;
+  background-position: 50% 0 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
+.enterbusiness_4 {
+  background-image: url(../../assets/img/chuangxin.jpg) !important;
+  background-position: 50% 0 !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
 }

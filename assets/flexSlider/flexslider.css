@@ -258,6 +258,7 @@ html[xmlns] .flexslider .slides {
 .flex-control-thumbs .flex-active {
   opacity: 1;
   cursor: default;
+  background: #71C44C !important;
 }
 /* ====================================================================================================================
  * RESPONSIVE

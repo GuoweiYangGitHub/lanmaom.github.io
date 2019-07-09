@@ -41,6 +41,7 @@
 	<link href="style.css" rel="stylesheet">
 
 	<!-- Agency CSS -->
+	<link rel="stylesheet" href="./modules/libs/swiper/swiper.min.css">
 	<link href="assets/css/skins/agency.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="modules/css/base.css">
 
@@ -51,8 +52,31 @@
 			#header.transparent-header {
 				background: transparent !important;
 			}
-		}
-		
+		} 
+
+		.swiper-container {
+      width: 100%;
+      height: 100%;
+    }
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+
+      /* Center slide text vertically */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+    }
 	</style>
 
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -161,47 +185,49 @@
 	</header>
 	<!--导航 end-->
 
-
-	<!-- Hero Section -->
-	<section class="agency-banner-7 bg-fixed parallax-bg full-height" data-stellar-background-ratio="0.5">
-		<div class="container">
-			<div class="career-cover text-center padding-top-160">
-
-				<div class="career-carousel mt_30">
-
-					<div class="carousel-item">
-						<h2 class="fz_26 mb_50" data-localize="joinUs.passion.title">激情</h2>
-						<div class="white-text fz_24" data-localize="joinUs.passion.content"> 对我们所做的一切都充满激情，活力和信心。</div>
-					</div><!-- /.carousel-item -->
-
-					<div class="carousel-item">
-						<h2 class="fz_26 mb_50" data-localize="joinUs.integrity.title">诚信</h2>
-						<div class="white-text fz_24" data-localize="joinUs.integrity.content">不管对内部团队还是客户，我们重视清晰的，公开的和诚实的交流。</div>
-					</div><!-- /.carousel-item -->
-
-					<div class="carousel-item">
-						<h2 class="fz_26 mb_50" data-localize="joinUs.excellence.title">卓越</h2>
-						<div class="white-text fz_24" data-localize="joinUs.excellence.content">我们追求用最高的标准招募最优秀的人才，提供高质量的产品。</div>
-					</div><!-- /.carousel-item -->
-
-					<div class="carousel-item">
-						<h2 class="fz_26 mb_50" data-localize="joinUs.innovation.title">创新</h2>
-						<div class="white-text fz_24" data-localize="joinUs.innovation.content">我们鼓励持续的思考与改进，来不断提升我们的产品和服务。</div>
-					</div><!-- /.carousel-item -->
+	<!-- 轮播图 -->
+	<section>
+		<div class="swiper-container">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide enterbusiness_1">
+						<div class="carousel-item">
+							<h2 class="fz_26 mb_50" data-localize="joinUs.passion.title">激情</h2>
+							<div class="white-text fz_24" data-localize="joinUs.passion.content"> 对我们所做的一切都充满激情，活力和信心。</div>
+						</div><!-- /.carousel-item -->
+					</div>
+					<div class="swiper-slide enterbusiness_2">
+						<div class="carousel-item">
+							<h2 class="fz_26 mb_50" data-localize="joinUs.integrity.title">诚信</h2>
+							<div class="white-text fz_24" data-localize="joinUs.integrity.content">不管对内部团队还是客户，我们重视清晰的，公开的和诚实的交流。</div>
+						</div><!-- /.carousel-item -->
+					</div>
+					<div class="swiper-slide enterbusiness_3">
+						<div class="carousel-item">
+							<h2 class="fz_26 mb_50" data-localize="joinUs.excellence.title">卓越</h2>
+							<div class="white-text fz_24" data-localize="joinUs.excellence.content">我们追求用最高的标准招募最优秀的人才，提供高质量的产品。</div>
+						</div><!-- /.carousel-item -->
+					</div>
+					<div class="swiper-slide enterbusiness_4	">
+						<div class="carousel-item">
+							<h2 class="fz_26 mb_50" data-localize="joinUs.innovation.title">创新</h2>
+							<div class="white-text fz_24" data-localize="joinUs.innovation.content">我们鼓励持续的思考与改进，来不断提升我们的产品和服务。</div>
+						</div><!-- /.carousel-item -->
+					</div>
 				</div>
-
-			</div><!-- /.career-cover -->
-		</div><!-- /.container -->
+				<!-- Add Arrows -->
+				<div class="swiper-pagination"></div>
+			</div>
 	</section>
-	<!-- Hero Section End -->
+	<!-- 轮播图 End -->
 
 
-	<section class="mt_60 mb_60">
+
+	<section class="pt_60 pb_60" style="background-color: #03A9F4;">
 		<div class="container">
 			<div class="row equal-height-row">
 				<div class="col-md-12">
 					<div class="equal-height-column text-center">
-						<p class="no-margin fz_weight" >
+						<p class="no-margin fz_weight" style="color:#fff;">
 							<span data-localize="joinUs.container">作为中国领先的生物科技活动企业,商图一直致力于建设一支团结,富有理想和激情的团队,追求创新进取的精神和蓬勃向上的朝气.</span>
 							<br>
 							<span data-localize="joinUs.join">加入商图, 请将简历以附件形式发送至 contact@bmapglobal.com,期待您的加入!</span>
@@ -375,16 +401,37 @@
 	<script src="assets/js/scripts.js"></script>
 
 	<!-- 自己写的 -->
-	<script src="modules/js/common.js"></script>
+	<script src="./modules/js/common.js"></script>
 	<script src="./modules/libs/jquery-localize/jquery.localize.min.js"></script>
+	<script src="./modules/libs/swiper/swiper.min.js"></script>
 	<script src="./modules/js/language_cookie.js"></script>
 	<script src="./modules/js/enteringTheBusiness.js"></script>
 
 	<script>
+		// 获取可视区域的高度
+		$(window).on('resize',function(){
+			var windHeight = $(window).height()
+			$('.swiper-container').css('height',windHeight + 'px')
+		})
+	  var mySwiper =	new Swiper('.swiper-container', {
+			autoplayDisableOnInteraction: false,
+			autoplay: {
+				delay: 3000,
+				stopOnLastSlide: false,
+    		disableOnInteraction: true
+			},
+			loop:true,
+			pagination: {
+				el: '.swiper-pagination',
+				dynamicBullets: true,
+    		dynamicMainBullets: 1
+      },
+    });
 		$('#toggle').on('click', function () {
 			$(this).toggleClass('active');
 			$('#overlay').toggleClass('open');
 		});
+
 	</script>
 </body>
 

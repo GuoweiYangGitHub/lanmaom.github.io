@@ -4,20 +4,11 @@
 .content.white-text {
   font-size: 14px;
 }
-.banner-content:after {
-  content: '';
+.banner-content .line {
   display: block;
   width: 0;
   height: 3px;
-  opacity: 0;
   background: #03a9f4;
-}
-.banner-content.is-loading:after {
-  opacity: 1;
-  -webkit-transition: width 3s;
-  -moz-transition: width 3s;
-  transition: width 3s;
-  width: 100%;
 }
 .arrow-headers {
   position: relative;

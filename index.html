@@ -45,6 +45,7 @@
 	<!-- RS5.0 Layers and Navigation Styles -->
 	<link rel="stylesheet" type="text/css" href="assets/revolution/css/layers.css">
 	<link rel="stylesheet" type="text/css" href="assets/revolution/css/navigation.css">
+	<link rel="stylesheet" href="./modules/libs/swiper/swiper.min.css">
 	<link rel="stylesheet" type="text/css" href="modules/css/base.css">
 	<link rel="stylesheet" type="text/css" href="modules/css/index.css">
 	<style>
@@ -55,6 +56,27 @@
 				background: transparent !important;
 			}
 		}
+		 /* html, body {
+      position: relative;
+      height: 100%;
+    }
+    body {
+      background: #eee;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color:#000;
+      margin: 0;
+      padding: 0;
+    }
+    .swiper-container {
+      width: 100%;
+      height: 100%;
+    }
+    .swiper-slide {
+      background-position: center;
+      background-size: cover;
+    } */
+
 	</style>
 
 
@@ -187,7 +209,9 @@
 						data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
 						data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
 						data-start="800" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-						style="z-index: 5; white-space:nowrap;" data-localize="index.banner.banner_text1">中国生物科技行业领先活动公司
+						style="z-index: 5; white-space:nowrap;" >
+						<span data-localize="index.banner.banner_text1">中国生物科技行业领先活动公司</span>
+						<span class="line"></span>
 					</div>
 
 				</li>
@@ -211,7 +235,9 @@
 						data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
 						data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
 						data-start="800" data-splitin="none" data-splitout="none" data-responsive_offset="on"
-						style="z-index: 5; white-space: nowrap;" data-localize="index.banner.banner_text2">您职业发展的终身活动伙伴 
+						style="z-index: 5; white-space: nowrap;" >
+						<span data-localize="index.banner.banner_text2">您职业发展的终身活动伙伴</span> 
+						<span class="line"></span>
 					</div>
 				</li>
 				<!-- slide 2 end -->
@@ -318,11 +344,11 @@
 				<div class="col-md-5 mt-sm-50">
 					<div class="gallery-thumb">
 						<ul class="slides">
-							<li data-thumb="assets/img/blog/5.jpg">
-								<img src="assets/img/blog/5.jpg" alt="image">
+							<li data-thumb="assets/img/blog/1.jpg">
+								<img src="assets/img/blog/1.jpg" alt="image">
 							</li>
-							<li data-thumb="assets/img/blog/6.jpg">
-								<img src="assets/img/blog/6.jpg" alt="image">
+							<li data-thumb="assets/img/blog/2.jpg">
+								<img src="assets/img/blog/2.jpg" alt="image">
 							</li>
 							<li data-thumb="assets/img/blog/3.jpg">
 								<img src="assets/img/blog/3.jpg" alt="image">
@@ -582,7 +608,7 @@
 			jQuery(".materialize-slider").revolution({
 				sliderType: "standard",
 				sliderLayout: "fullscreen",
-				delay: 5000, 
+				delay: 6000, 
 				navigation: {
 					keyboardNavigation: "on",
 					keyboard_direction: "horizontal",
@@ -622,7 +648,7 @@
 				parallax: {
 					type: "mouse",
 					origo: "slidercenter",
-					speed: 1000, 
+					speed: 2000, 
 					levels: [2, 3, 4, 5, 6, 7, 12, 16, 10, 50],
 				}
 
@@ -646,6 +672,7 @@
 	<!-- 自己引入 -->
 	<script src="./modules/js/common.js"	></script>
 	<script src="./modules/libs/jquery-localize/jquery.localize.min.js"></script>
+	<script src="./modules/libs/swiper/swiper.min.js"></script>
 	<script src="./modules/js/language_cookie.js"></script>
 </body>
 
